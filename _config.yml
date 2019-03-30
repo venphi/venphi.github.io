@@ -23,5 +23,5 @@ google_api_key:
 
 # Build settings
 markdown: kramdown
-
+permalink: /404.html
 theme: 
